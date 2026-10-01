@@ -1,0 +1,4 @@
+dotnet --help/ -help
+dotnet new --help
+dotnet new list
+dotnet new mvc --name "(nome do arquivo)"
