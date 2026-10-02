@@ -1,4 +1,8 @@
-dotnet --help/ -help
-dotnet new --help
-dotnet new list
-dotnet new mvc --name "(nome do arquivo)"
+clear => limpar o terminar
+dotnet --help/ -help => ajuda
+dotnet new --help => ajuda
+dotnet new list => lista de template
+dotnet new mvc --name "(nome do arquivo)" => cria o projeto
+ls => lista as páginas do projeto
+cd (nome do arquivo)/ => se mover entre arquivos
+dotnet run => ruda o código
